@@ -16,8 +16,8 @@ public class App {
 //
 //        obj2.code();
 
-        Computer com = context.getBean(Computer.class);
-
-        Desktop obj = context.getBean(Desktop.class);
+//        Computer com = context.getBean(Computer.class);
+//
+//        Desktop obj = context.getBean(Desktop.class);
     }
 }
